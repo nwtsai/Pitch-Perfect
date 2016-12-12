@@ -26,7 +26,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate
         stopRecordingButton.isEnabled = false
     }
 
-    // Actions allow us to from UI to code
+    // Actions allow us to go from UI to code
     
     // This function runs everytime the record audio button is pressed
     @IBAction func recordAudio(_ sender: AnyObject)
