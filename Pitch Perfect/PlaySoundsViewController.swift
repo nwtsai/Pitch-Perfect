@@ -68,7 +68,7 @@ class PlaySoundsViewController: UIViewController
         setupAudio()
     }
     
-    // Handles which buttons get disabled between every transition
+    // Handles which button gets disabled between every transition
     override func viewWillAppear(_ animated: Bool)
     {
         super.viewWillAppear(animated)
