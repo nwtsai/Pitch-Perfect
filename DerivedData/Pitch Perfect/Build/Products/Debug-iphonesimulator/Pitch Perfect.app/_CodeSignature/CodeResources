@@ -22,11 +22,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/32w-tM-WVU-view-ouR-S2-deV.nib</key>
 		<data>
-		WVZvGfNF3pKd1kN3Pd3Sq6wIvYs=
+		LNBH1yEucHuIWSSCsdlUQ0bemOk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		Ik8eh479qQA0zgjbtKM4mO3HKVU=
+		ScGwNGubliFNAa2+V8vTTOnbI4I=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-uQ7-dY-zJC.nib</key>
 		<data>
-		C3etb90LH+iREENoLJcuT6e3fr8=
+		858E6dbfhwQp1p1opOZM522jiao=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-32w-tM-WVU.nib</key>
 		<data>
-		qt9nXYkwwVfsMynKUNLvxxNxnCs=
+		bTTaiTXTafcUcm2zl7gA7d8Gxk0=
 		</data>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>
 		<data>
@@ -155,22 +155,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WVZvGfNF3pKd1kN3Pd3Sq6wIvYs=
+			LNBH1yEucHuIWSSCsdlUQ0bemOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			0IkQH8WLPNTVU30DDpUT3R866FXVY8J7PeXS87l07xU=
+			ve2ntR/IqqqltEm6Et5+tylniniSrstkLO+sgflQO7M=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ik8eh479qQA0zgjbtKM4mO3HKVU=
+			ScGwNGubliFNAa2+V8vTTOnbI4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			v87oVDS27TqFKkgPQwI8rOYboMMgHf48OxLo8zp0Xq8=
+			XLTAEOWkecHJAbFAnx82OBAKC71AoBCApwFhKdMrBZg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -188,22 +188,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C3etb90LH+iREENoLJcuT6e3fr8=
+			858E6dbfhwQp1p1opOZM522jiao=
 			</data>
 			<key>hash2</key>
 			<data>
-			gGlPFG11tKvDBNViy1YOH+Itl06fQseB4xWr/RFabQI=
+			mk1qDpRhlMO/NudciD8MtLrQVqSPvcTsya4CqIWZfgU=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-32w-tM-WVU.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qt9nXYkwwVfsMynKUNLvxxNxnCs=
+			bTTaiTXTafcUcm2zl7gA7d8Gxk0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7ecM1cAijwH5DPUsz1gjB5BT6AqyzFDKKFJm+Tdo0xA=
+			o8yDpn1oZUmfcMsN8Q+2MtFZ1mrHcVsEL92XhgysaqQ=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftAVFoundation.dylib</key>

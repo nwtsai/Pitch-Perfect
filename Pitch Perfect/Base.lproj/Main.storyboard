@@ -137,7 +137,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="leR-ep-BU4" firstAttribute="top" secondItem="Osg-es-PlP" secondAttribute="bottom" id="9mK-1c-OGg"/>
-                            <constraint firstItem="YgQ-66-q24" firstAttribute="top" secondItem="leR-ep-BU4" secondAttribute="bottom" constant="20" id="DyJ-Np-kle"/>
+                            <constraint firstItem="YgQ-66-q24" firstAttribute="top" secondItem="leR-ep-BU4" secondAttribute="bottom" id="DyJ-Np-kle"/>
                             <constraint firstAttribute="trailingMargin" secondItem="leR-ep-BU4" secondAttribute="trailing" id="NzN-Cr-6rK"/>
                             <constraint firstItem="leR-ep-BU4" firstAttribute="leading" secondItem="ouR-S2-deV" secondAttribute="leadingMargin" id="ooy-eJ-MYv"/>
                         </constraints>
