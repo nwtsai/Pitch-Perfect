@@ -1,8 +1,8 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "4386a55f07b9a4e1ebd4ce92cb0ce9bb"
-build_time: [534836067, 875836000]
+build_time: [534908984, 640448000]
 inputs:
-  "/Users/nwtsai/Documents/IOS Apps/Pitch Perfect/Pitch Perfect/RecordSoundsViewController.swift": [534834520, 0]
+  "/Users/nwtsai/Documents/IOS Apps/Pitch Perfect/Pitch Perfect/RecordSoundsViewController.swift": [534842868, 0]
   "/Users/nwtsai/Documents/IOS Apps/Pitch Perfect/Pitch Perfect/PlaySoundsViewController.swift": [534836016, 0]
   "/Users/nwtsai/Documents/IOS Apps/Pitch Perfect/Pitch Perfect/AppDelegate.swift": [534834528, 0]
   "/Users/nwtsai/Documents/IOS Apps/Pitch Perfect/Pitch Perfect/playsoundsviewcontroller-audio.swift": [534834528, 0]
